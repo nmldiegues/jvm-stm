@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/nsb/!svn/ver/156/jamvm-1.5.4/src/arch
+END
+x86_64.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/nsb/!svn/ver/153/jamvm-1.5.4/src/arch/x86_64.h
+END
+i386.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/nsb/!svn/ver/153/jamvm-1.5.4/src/arch/i386.h
+END
+parisc.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/nsb/!svn/ver/153/jamvm-1.5.4/src/arch/parisc.h
+END
+powerpc.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/nsb/!svn/ver/153/jamvm-1.5.4/src/arch/powerpc.h
+END
+arm.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/nsb/!svn/ver/153/jamvm-1.5.4/src/arch/arm.h
+END
+mips.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/nsb/!svn/ver/153/jamvm-1.5.4/src/arch/mips.h
+END
+sparc.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/nsb/!svn/ver/153/jamvm-1.5.4/src/arch/sparc.h
+END

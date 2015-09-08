@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/nsb/!svn/ver/186/jamvm-ave/t1
+END
+TestAll.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/nsb/!svn/ver/443/jamvm-ave/t1/TestAll.java
+END
+TestLong.java
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/nsb/!svn/ver/299/jamvm-ave/t1/TestLong.java
+END
+TestFloat.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/nsb/!svn/ver/299/jamvm-ave/t1/TestFloat.java
+END
+TestShort.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/nsb/!svn/ver/299/jamvm-ave/t1/TestShort.java
+END
+ThreadRef.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/nsb/!svn/ver/443/jamvm-ave/t1/ThreadRef.java
+END
+FloatHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/nsb/!svn/ver/299/jamvm-ave/t1/FloatHolder.java
+END
+LongHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/nsb/!svn/ver/299/jamvm-ave/t1/LongHolder.java
+END
+ShortHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/nsb/!svn/ver/299/jamvm-ave/t1/ShortHolder.java
+END
+ThreadLong.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/nsb/!svn/ver/299/jamvm-ave/t1/ThreadLong.java
+END
+ThreadInt.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/nsb/!svn/ver/299/jamvm-ave/t1/ThreadInt.java
+END
+TestDouble.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/nsb/!svn/ver/299/jamvm-ave/t1/TestDouble.java
+END
+TestRef.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/nsb/!svn/ver/326/jamvm-ave/t1/TestRef.java
+END
+RefHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/nsb/!svn/ver/443/jamvm-ave/t1/RefHolder.java
+END
+DoubleHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/nsb/!svn/ver/299/jamvm-ave/t1/DoubleHolder.java
+END
+TestInt.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/nsb/!svn/ver/299/jamvm-ave/t1/TestInt.java
+END
+IntHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/nsb/!svn/ver/186/jamvm-ave/t1/IntHolder.java
+END
+ThreadDouble.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/nsb/!svn/ver/299/jamvm-ave/t1/ThreadDouble.java
+END
+SpecialInt.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/nsb/!svn/ver/326/jamvm-ave/t1/SpecialInt.java
+END
+ThreadFloat.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/nsb/!svn/ver/299/jamvm-ave/t1/ThreadFloat.java
+END
+ThreadShort.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/nsb/!svn/ver/299/jamvm-ave/t1/ThreadShort.java
+END

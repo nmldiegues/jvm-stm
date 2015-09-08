@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/nsb/!svn/ver/156/jamvm-1.5.4/src/os/darwin/i386
+END
+init.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/nsb/!svn/ver/153/jamvm-1.5.4/src/os/darwin/i386/init.c
+END
+dll_md.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/nsb/!svn/ver/153/jamvm-1.5.4/src/os/darwin/i386/dll_md.c
+END

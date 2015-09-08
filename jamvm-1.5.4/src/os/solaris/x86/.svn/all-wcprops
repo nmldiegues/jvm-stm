@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/nsb/!svn/ver/156/jamvm-1.5.4/src/os/solaris/x86
+END
+init.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/nsb/!svn/ver/153/jamvm-1.5.4/src/os/solaris/x86/init.c
+END
+dll_md.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/nsb/!svn/ver/153/jamvm-1.5.4/src/os/solaris/x86/dll_md.c
+END
+callNative64.S
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/nsb/!svn/ver/153/jamvm-1.5.4/src/os/solaris/x86/callNative64.S
+END

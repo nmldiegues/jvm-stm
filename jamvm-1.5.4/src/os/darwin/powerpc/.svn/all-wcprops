@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/nsb/!svn/ver/156/jamvm-1.5.4/src/os/darwin/powerpc
+END
+init.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/nsb/!svn/ver/153/jamvm-1.5.4/src/os/darwin/powerpc/init.c
+END
+dll_md.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/nsb/!svn/ver/153/jamvm-1.5.4/src/os/darwin/powerpc/dll_md.c
+END
+callNative64.S
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/nsb/!svn/ver/153/jamvm-1.5.4/src/os/darwin/powerpc/callNative64.S
+END
+callNative32.S
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/nsb/!svn/ver/153/jamvm-1.5.4/src/os/darwin/powerpc/callNative32.S
+END
+callNative.S
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/nsb/!svn/ver/153/jamvm-1.5.4/src/os/darwin/powerpc/callNative.S
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/nsb/!svn/ver/303/jamvm-ave/t7
+END
+TestAll.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/nsb/!svn/ver/443/jamvm-ave/t7/TestAll.java
+END
+TestInt.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/nsb/!svn/ver/303/jamvm-ave/t7/TestInt.java
+END
+IntHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/nsb/!svn/ver/303/jamvm-ave/t7/IntHolder.java
+END
+TestNested.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/nsb/!svn/ver/303/jamvm-ave/t7/TestNested.java
+END
+ThreadInt.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/nsb/!svn/ver/303/jamvm-ave/t7/ThreadInt.java
+END
+ThreadNested.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/nsb/!svn/ver/303/jamvm-ave/t7/ThreadNested.java
+END

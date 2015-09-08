@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/nsb/!svn/ver/303/jamvm-ave/t8/build
+END
+asm-3.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/nsb/!svn/ver/303/jamvm-ave/t8/build/asm-3.0.jar
+END
+asm-tree-3.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/nsb/!svn/ver/303/jamvm-ave/t8/build/asm-tree-3.0.jar
+END
+asm-commons-3.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/nsb/!svn/ver/303/jamvm-ave/t8/build/asm-commons-3.0.jar
+END
+jvstm.jar
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/nsb/!svn/ver/303/jamvm-ave/t8/build/jvstm.jar
+END

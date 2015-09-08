@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/nsb/!svn/ver/156/jamvm-1.5.4/src/interp
+END
+inlining.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/nsb/!svn/ver/153/jamvm-1.5.4/src/interp/inlining.h
+END
+relocatability.inc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/nsb/!svn/ver/154/jamvm-1.5.4/src/interp/relocatability.inc
+END
+inlining.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/nsb/!svn/ver/153/jamvm-1.5.4/src/interp/inlining.c
+END
+direct.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/nsb/!svn/ver/444/jamvm-1.5.4/src/interp/direct.c
+END
+shared.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/nsb/!svn/ver/153/jamvm-1.5.4/src/interp/shared.h
+END

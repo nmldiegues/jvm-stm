@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/nsb/!svn/ver/156/jamvm-1.5.4/src/interp/engine
+END
+interp-indirect.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/nsb/!svn/ver/153/jamvm-1.5.4/src/interp/engine/interp-indirect.h
+END
+interp2.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/nsb/!svn/ver/153/jamvm-1.5.4/src/interp/engine/interp2.c
+END
+compute_relocatability.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/nsb/!svn/ver/444/jamvm-1.5.4/src/interp/engine/compute_relocatability.c
+END
+interp-inlining.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/nsb/!svn/ver/153/jamvm-1.5.4/src/interp/engine/interp-inlining.h
+END
+interp-threading.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/nsb/!svn/ver/153/jamvm-1.5.4/src/interp/engine/interp-threading.h
+END
+interp.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/nsb/!svn/ver/444/jamvm-1.5.4/src/interp/engine/interp.c
+END
+relocatability.inc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/nsb/!svn/ver/444/jamvm-1.5.4/src/interp/engine/relocatability.inc
+END
+interp-direct.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/nsb/!svn/ver/153/jamvm-1.5.4/src/interp/engine/interp-direct.h
+END
+interp.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/nsb/!svn/ver/153/jamvm-1.5.4/src/interp/engine/interp.h
+END
+relocatability.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/nsb/!svn/ver/153/jamvm-1.5.4/src/interp/engine/relocatability.c
+END

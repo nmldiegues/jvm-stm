@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 35
+Makefile.am
+
+Makefile
+
+Makefile.in
+
+END

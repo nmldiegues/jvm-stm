@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/nsb/!svn/ver/156/jamvm-1.5.4/src/os/linux/powerpc
+END
+init.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/nsb/!svn/ver/153/jamvm-1.5.4/src/os/linux/powerpc/init.c
+END
+dll_md.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/nsb/!svn/ver/153/jamvm-1.5.4/src/os/linux/powerpc/dll_md.c
+END
+callNative.S
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/nsb/!svn/ver/153/jamvm-1.5.4/src/os/linux/powerpc/callNative.S
+END

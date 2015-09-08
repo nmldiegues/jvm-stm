@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/nsb/!svn/ver/301/jamvm-ave/t6
+END
+TestAll.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/nsb/!svn/ver/443/jamvm-ave/t6/TestAll.java
+END
+TestLong.java
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/nsb/!svn/ver/301/jamvm-ave/t6/TestLong.java
+END
+DoubleHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/nsb/!svn/ver/301/jamvm-ave/t6/DoubleHolder.java
+END
+TestInt.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/nsb/!svn/ver/301/jamvm-ave/t6/TestInt.java
+END
+IntHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/nsb/!svn/ver/301/jamvm-ave/t6/IntHolder.java
+END
+ThreadDouble.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/nsb/!svn/ver/301/jamvm-ave/t6/ThreadDouble.java
+END
+LongHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/nsb/!svn/ver/301/jamvm-ave/t6/LongHolder.java
+END
+ThreadLong.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/nsb/!svn/ver/301/jamvm-ave/t6/ThreadLong.java
+END
+ThreadInt.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/nsb/!svn/ver/443/jamvm-ave/t6/ThreadInt.java
+END
+TestDouble.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/nsb/!svn/ver/301/jamvm-ave/t6/TestDouble.java
+END

@@ -1,0 +1,291 @@
+K 26
+svn:wc:ra_dav:activity-url
+V 18
+/svn/nsb/!svn/act/
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/nsb/!svn/ver/156/jamvm-1.5.4/src
+END
+time.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/nsb/!svn/ver/153/jamvm-1.5.4/src/time.c
+END
+dll_ffi.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/nsb/!svn/ver/153/jamvm-1.5.4/src/dll_ffi.c
+END
+hash.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/nsb/!svn/ver/153/jamvm-1.5.4/src/hash.c
+END
+thread.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/nsb/!svn/ver/444/jamvm-1.5.4/src/thread.h
+END
+init.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/nsb/!svn/ver/444/jamvm-1.5.4/src/init.c
+END
+sig.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/nsb/!svn/ver/153/jamvm-1.5.4/src/sig.c
+END
+string.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/nsb/!svn/ver/153/jamvm-1.5.4/src/string.c
+END
+hash.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/nsb/!svn/ver/153/jamvm-1.5.4/src/hash.h
+END
+jam.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/nsb/!svn/ver/153/jamvm-1.5.4/src/jam.c
+END
+shutdown.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/nsb/!svn/ver/153/jamvm-1.5.4/src/shutdown.c
+END
+sig.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/nsb/!svn/ver/153/jamvm-1.5.4/src/sig.h
+END
+symbol.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/nsb/!svn/ver/153/jamvm-1.5.4/src/symbol.c
+END
+arch.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/nsb/!svn/ver/153/jamvm-1.5.4/src/arch.h
+END
+jam.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/nsb/!svn/ver/444/jamvm-1.5.4/src/jam.h
+END
+symbol.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/nsb/!svn/ver/153/jamvm-1.5.4/src/symbol.h
+END
+zip.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/nsb/!svn/ver/153/jamvm-1.5.4/src/zip.c
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/nsb/!svn/ver/153/jamvm-1.5.4/src/config.h.in
+END
+access.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/nsb/!svn/ver/153/jamvm-1.5.4/src/access.c
+END
+dll.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/nsb/!svn/ver/153/jamvm-1.5.4/src/dll.c
+END
+jni.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/nsb/!svn/ver/153/jamvm-1.5.4/src/jni.c
+END
+zip.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/nsb/!svn/ver/153/jamvm-1.5.4/src/zip.h
+END
+jni-internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/nsb/!svn/ver/153/jamvm-1.5.4/src/jni-internal.h
+END
+jni.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/nsb/!svn/ver/153/jamvm-1.5.4/src/jni.h
+END
+lock.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/nsb/!svn/ver/153/jamvm-1.5.4/src/lock.c
+END
+resolve.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/nsb/!svn/ver/154/jamvm-1.5.4/src/resolve.c
+END
+frame.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/nsb/!svn/ver/153/jamvm-1.5.4/src/frame.c
+END
+hooks.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/nsb/!svn/ver/153/jamvm-1.5.4/src/hooks.c
+END
+lock.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/nsb/!svn/ver/153/jamvm-1.5.4/src/lock.h
+END
+utf8.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/nsb/!svn/ver/153/jamvm-1.5.4/src/utf8.c
+END
+frame.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/nsb/!svn/ver/153/jamvm-1.5.4/src/frame.h
+END
+properties.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/nsb/!svn/ver/153/jamvm-1.5.4/src/properties.c
+END
+alloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/nsb/!svn/ver/444/jamvm-1.5.4/src/alloc.c
+END
+execute.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/nsb/!svn/ver/444/jamvm-1.5.4/src/execute.c
+END
+class.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/nsb/!svn/ver/153/jamvm-1.5.4/src/class.c
+END
+properties.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/nsb/!svn/ver/153/jamvm-1.5.4/src/properties.h
+END
+alloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/nsb/!svn/ver/153/jamvm-1.5.4/src/alloc.h
+END
+excep.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/nsb/!svn/ver/444/jamvm-1.5.4/src/excep.c
+END
+natives.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/nsb/!svn/ver/153/jamvm-1.5.4/src/natives.c
+END
+class.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/nsb/!svn/ver/153/jamvm-1.5.4/src/class.h
+END
+reflect.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/nsb/!svn/ver/153/jamvm-1.5.4/src/reflect.c
+END
+cast.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/nsb/!svn/ver/153/jamvm-1.5.4/src/cast.c
+END
+excep.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/nsb/!svn/ver/153/jamvm-1.5.4/src/excep.h
+END
+natives.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/nsb/!svn/ver/153/jamvm-1.5.4/src/natives.h
+END
+reflect.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/nsb/!svn/ver/153/jamvm-1.5.4/src/reflect.h
+END
+wrappers.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/nsb/!svn/ver/444/jamvm-1.5.4/src/wrappers.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/nsb/!svn/ver/444/jamvm-1.5.4/src/config.h
+END
+thread.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/nsb/!svn/ver/444/jamvm-1.5.4/src/thread.c
+END

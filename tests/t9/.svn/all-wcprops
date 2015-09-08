@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/nsb/!svn/ver/303/jamvm-ave/t9
+END
+Account.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/nsb/!svn/ver/303/jamvm-ave/t9/Account.java
+END
+Counter.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/nsb/!svn/ver/303/jamvm-ave/t9/Counter.java
+END
+CounterTiny.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/nsb/!svn/ver/303/jamvm-ave/t9/CounterTiny.java
+END
+TestTransfersJVSTM.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/nsb/!svn/ver/443/jamvm-ave/t9/TestTransfersJVSTM.java
+END
+VAccountJVSTM.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/nsb/!svn/ver/303/jamvm-ave/t9/VAccountJVSTM.java
+END
+VAccountTiny.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/nsb/!svn/ver/303/jamvm-ave/t9/VAccountTiny.java
+END
+TestTransfersTiny.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/nsb/!svn/ver/443/jamvm-ave/t9/TestTransfersTiny.java
+END
+CounterJVSTM.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/nsb/!svn/ver/303/jamvm-ave/t9/CounterJVSTM.java
+END

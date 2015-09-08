@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/nsb/!svn/ver/156/jamvm-1.5.4/src/os/linux/arm
+END
+callNativeOABI.S
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/nsb/!svn/ver/153/jamvm-1.5.4/src/os/linux/arm/callNativeOABI.S
+END
+init.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/nsb/!svn/ver/153/jamvm-1.5.4/src/os/linux/arm/init.c
+END
+dll_md.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/nsb/!svn/ver/153/jamvm-1.5.4/src/os/linux/arm/dll_md.c
+END
+callNative.S
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/nsb/!svn/ver/153/jamvm-1.5.4/src/os/linux/arm/callNative.S
+END
+callNativeEABI.S
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/nsb/!svn/ver/153/jamvm-1.5.4/src/os/linux/arm/callNativeEABI.S
+END

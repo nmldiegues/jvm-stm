@@ -1,0 +1,16 @@
+K 10
+svn:ignore
+V 73
+.deps
+
+.libs
+
+compute_relocatability
+
+Makefile
+
+Makefile.am
+
+Makefile.in
+
+END

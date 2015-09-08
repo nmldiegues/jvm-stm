@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/nsb/!svn/ver/303/jamvm-ave/t8
+END
+Counter.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/nsb/!svn/ver/303/jamvm-ave/t8/Counter.java
+END
+CounterTiny.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/nsb/!svn/ver/303/jamvm-ave/t8/CounterTiny.java
+END
+TestCounterTiny.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/nsb/!svn/ver/443/jamvm-ave/t8/TestCounterTiny.java
+END
+ThreadTiny.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/nsb/!svn/ver/343/jamvm-ave/t8/ThreadTiny.java
+END
+TestCounterJVSTM.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/nsb/!svn/ver/443/jamvm-ave/t8/TestCounterJVSTM.java
+END
+ThreadJVSTM.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/nsb/!svn/ver/343/jamvm-ave/t8/ThreadJVSTM.java
+END
+CounterJVSTM.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/nsb/!svn/ver/303/jamvm-ave/t8/CounterJVSTM.java
+END

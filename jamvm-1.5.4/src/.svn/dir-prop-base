@@ -1,0 +1,20 @@
+K 10
+svn:ignore
+V 73
+.deps
+
+.libs
+
+jamvm
+
+Makefile
+
+Makefile.am
+
+Makefile.in
+
+stamp-h1
+
+stm.h
+
+END
